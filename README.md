@@ -10,7 +10,7 @@ Incase you want to run the python file and not the exe follow the following step
 
 Download the sourcecode.
 
-Install customtkinter, the easiest way to do so is in an IDE like pycharm where you can easely open the project and type: pip install customtkinter  
+Install customtkinter and pillow, the easiest way to do so is in an IDE like pycharm where you can easely open the project and type: pip install customtkinter  / pip install pillow
 In the terminal.
 
 After that just run the python code, you will need to have python installed(made for python 3.12).
