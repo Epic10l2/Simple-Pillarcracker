@@ -14,3 +14,5 @@ Install customtkinter and pillow, the easiest way to do so is in an IDE like pyc
 In the terminal.
 
 After that just run the python code, you will need to have python installed(made for python 3.12).
+
+Thanks to Neil(hube12) for making a pillarcracker in the first place, yes i just yoinked his code and translated it to python.
